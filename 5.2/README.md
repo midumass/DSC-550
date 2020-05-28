@@ -1,5 +1,4 @@
 # News Analysis
-[View on GitHub](https://github.com/midumass/DSC-550/tree/master/5.2) 
 
 ### Purpose
 Analyze article data from different news agencies from article count and length to content.
